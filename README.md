@@ -73,7 +73,9 @@
 
 🚀 Experiência em liderança, capaz de coordenar equipes e projetos.
 
-🗣 Habilidade em apresentação e oratória em público.
+🎤 Habilidade em apresentação e oratória em público.
+
+🗣 Habilidade com memorização e interpretação de falas e roteiros.
 
 #  
 
