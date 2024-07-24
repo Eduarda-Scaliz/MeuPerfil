@@ -60,6 +60,10 @@
 🎞 Edição avançada de vídeo.
 
 📸 Manipulação profissional de imagens.
+
+🖌Especialista em design gráfico, como materiais promocionais, comerciais e de divulgação.
+
+
 #  
 ### Idiomas
 💬 Habilidade básica em inglês.
