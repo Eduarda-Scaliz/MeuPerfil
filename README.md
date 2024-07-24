@@ -42,13 +42,13 @@
 
 #  
 ### Computação em Nuvem
-- Implantação de soluções com AWS.
+- Aperfeicoamento profissional de implantação de soluções com Amazon Web Services(AWS).
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/>
 
 #  
 
 ### Internet das Coisas (IoT)
-- Desenvolvimento de soluções IoT.
+💡 Aperfeiçoamento profissional em desenvolvimento de soluções com IoT.
 
 # 
 
@@ -61,24 +61,24 @@
 
 📸 Manipulação profissional de imagens.
 
-🖌Especialista em design gráfico, como materiais promocionais, comerciais e de divulgação.
+🖌 Especialista em design gráfico, como materiais promocionais, comerciais e de divulgação.
 
-📝Criadora de roteiros para vídeos corporativos, comerciais e conteúdo digital. 
+📝 Criadora de roteiros para vídeos corporativos, comerciais e conteúdo digital. 
 
-🎥 Filmmaker com experiência em direção, filmagem e edição de vídeos.
-
-🗣 Habilidade em apresentação e oratória em público.
+🎥 Filmmaker com experiência em direção e filmagem de vídeos.
 
 # 
 
-### Liderança
+### Habilidades
 
 🚀 Experiência em liderança, capaz de coordenar equipes e projetos.
+
+🗣 Habilidade em apresentação e oratória em público.
 
 #  
 
 ### Idiomas
-💬 Habilidade básica em inglês.
+💬 Inglês básico.
 
 
 # 
