@@ -63,8 +63,20 @@
 
 🖌Especialista em design gráfico, como materiais promocionais, comerciais e de divulgação.
 
+📝Criadora de roteiros para vídeos corporativos, comerciais e conteúdo digital. 
+
+🎥 Filmmaker com experiência em direção, filmagem e edição de vídeos.
+
+🗣 Habilidade em apresentação e oratória em público.
+
+# 
+
+### Liderança
+
+🚀 Experiência em liderança, capaz de coordenar equipes e projetos.
 
 #  
+
 ### Idiomas
 💬 Habilidade básica em inglês.
 
