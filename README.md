@@ -24,9 +24,9 @@
 
 👩🏽‍💻 Estudante de desenvolvimento de software no SENAI.
 
-🏆 Experiência em competições de robótica, alcançando o 3º lugar no maior evento de robótica da América Latina, a RoboCup Jr e participando de um mundial da First Lego League(FLL), trazendo um prêmio de 2° lugar no desempenho do robô.
+🏆 Experiência em competições de robótica, alcançando o 3º lugar na RoboCup Junior, no maior evento de robótica da América Latina e participando de um mundial da First Lego League(FLL), conquistando 2° lugar no desempenho do robô.
 
-🎖 Menção honrosa na Olimpíada Brasileira de Matemática das Escolas Públicas e Privadas(OBMEP).
+🎖 Menção honrosa na Olimpíada Brasileira de Matemática das Escolas Públicas(OBMEP).
 
 #  
 ### Sistemas e Infraestrutura
