@@ -50,6 +50,8 @@
 ### Internet das Coisas (IoT)
 💡 Aperfeiçoamento profissional em desenvolvimento de soluções com IoT.
 
+#
+
 ### Competências Transversais (LGPD)
 🔒 Curso sobre Privacidade e Proteção de Dados.
 
