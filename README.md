@@ -42,13 +42,16 @@
 
 #  
 ### Computação em Nuvem
-- Aperfeicoamento profissional de implantação de soluções com Amazon Web Services(AWS).
+- Aperfeiçoamento profissional de implantação de soluções com Amazon Web Services(AWS).
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/>
 
 #  
 
 ### Internet das Coisas (IoT)
 💡 Aperfeiçoamento profissional em desenvolvimento de soluções com IoT.
+
+### Competências Transversais (LGPD)
+🔒 Curso sobre Privacidade e Proteção de Dados.
 
 # 
 
