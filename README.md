@@ -68,6 +68,7 @@
 🎥 Filmmaker com experiência em direção e filmagem de vídeos.
 
 Habilidade com :
+
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40"/>
 
 # 
