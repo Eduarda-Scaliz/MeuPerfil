@@ -81,6 +81,8 @@ Habilidade com :
 
 🗣 Habilidade com memorização e interpretação de falas e roteiros.
 
+⚡️ Aprendo rápido.
+
 #  
 
 ### Idiomas
