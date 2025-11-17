@@ -409,13 +409,13 @@ IoT, Cloud Computing e Sistemas
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="35%">
 
 #### 📧 Email
 [dudascaliz@gmail.com](mailto:dudascaliz@gmail.com)
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="35%">
 
 #### 💼 LinkedIn
 [/eduarda-scaliz](https://www.linkedin.com/in/eduarda-scaliz-423034359)
@@ -437,10 +437,6 @@ IoT, Cloud Computing e Sistemas
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-
-### 📈 Visitantes do Perfil
-
-![Visitor Count](https://profile-counter.glitch.me/Eduarda-Scaliz/count.svg)
 
 ### ⭐ Se você chegou até aqui...
 
